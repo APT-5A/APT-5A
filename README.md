@@ -37,6 +37,7 @@ Turning messy, real-world signals into clear, visual stories — with Python, da
 
 ### 🧩 Houdini / 3D Notes
 - Goal: small utilities & notes that bridge simulations and data storytelling.
+- Repo → (coming soon)
 
 ---
 
